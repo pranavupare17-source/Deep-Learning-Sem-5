@@ -1,0 +1,10 @@
+﻿**/venv/
+**/venv312/
+**/__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+Practical 4/Apple_Disease_CNN/Archive/
+Practical 4/archive (1)/
+Practical 4/Apple_Disease_CNN/Archive.zip
+Practical 4/Apple_Disease_CNN/dataset.zip
